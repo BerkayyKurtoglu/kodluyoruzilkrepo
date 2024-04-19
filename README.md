@@ -10,5 +10,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 ## Images
-
+![project](https://github.com/BerkayyKurtoglu/kodluyoruzilkrepo/assets/88981781/ae15126d-173b-4355-ac52-3cc20fb044b4)
 
